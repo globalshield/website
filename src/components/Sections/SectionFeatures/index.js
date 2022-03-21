@@ -23,7 +23,7 @@ const SectionFeatures = () => (
                     className={"mt-12 sm:mt-0"}
                     title={"Command Center"}
                     svgIcon={<CommandCenterSvg />}
-                    to={"#"}
+                    to={"https://docs.globalshield.io/drone-ui"}
                     btnText={"Command UI (soon)"}
                     btnClass={"text-btn-dark-blue-text bg-btn-dark-blue-bg"}
                 >
@@ -33,8 +33,8 @@ const SectionFeatures = () => (
                     className={"mt-12 sm:mt-0"}
                     title={"Shield API"}
                     svgIcon={<ShieldApiSvg />}
-                    to={"#"}
-                    btnText={"Docs (soon)"}
+                    to={"https://docs.globalshield.io"}
+                    btnText={"Documentation"}
                     // btnClass={"text-btn-blue-text bg-btn-blue-bg"}
                     btnClass={"text-btn-dark-blue-text bg-btn-dark-blue-bg"}
                 >
